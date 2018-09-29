@@ -1,0 +1,5 @@
+BeautifulSoup
+selenium
+sortedcontainers
+tqdm
+requests
