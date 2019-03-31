@@ -3,3 +3,4 @@ selenium
 sortedcontainers
 tqdm
 requests
+enum34

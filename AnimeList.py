@@ -1,0 +1,7 @@
+FAIRY_TAIL = 'https://www.watchcartoononline.io/anime/fairy-tail-2018-english-subbed'
+BLACK_CLOVER = 'https://www.watchcartoononline.io/anime/black-clover-tv-english-subbed'
+BORUTO = 'https://www.watchcartoononline.io/anime/boruto-naruto-next-generations-english-subbed'
+AKAME_GA_KILL = 'https://www.watchcartoononline.io/anime/akame-ga-kill'
+ONE_PUNCH_MAN = 'https://www.watchcartoononline.io/anime/one-punch-man'
+SOA_GUN_GALE = 'https://www.watchcartoononline.io/anime/sword-art-online-alternative-gun-gale-online'
+SOA_3 = 'https://www.watchcartoononline.io/anime/sword-art-online-iii'
