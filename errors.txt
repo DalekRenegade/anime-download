@@ -1,0 +1,4 @@
+https://www5.gogoanime.tv/category/dragon-ball-kai-dub
+ep - 14
+unsupported operand type(s) for |=: 'StatusTypeEnum' and 'StatusTypeEnum'
+

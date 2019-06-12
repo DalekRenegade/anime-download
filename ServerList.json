@@ -1,0 +1,44 @@
+{
+  "server_list": [
+    {"server": "RAPIDVIDEO",
+      "priority": 8,
+      "enabled": "True"
+    },
+    {"server": "XSTREAMCDN",
+      "priority": 9,
+      "enabled": "True"
+    },
+    {"server": "VIDSTREAMING",
+      "priority": 1,
+      "enabled": "False"
+    },
+    {"server": "VIDCDN",
+      "priority": 4,
+      "enabled": "False"
+    },
+    {"server": "STREAMANGO",
+      "priority": 7,
+      "enabled": "False"
+    },
+    {"server": "OLOAD",
+      "priority": 4,
+      "enabled": "False"
+    },
+    {"server": "OPENUPLOAD",
+      "priority": 5,
+      "enabled": "False"
+    },
+    {"server": "OPENLOAD",
+      "priority": 5,
+      "enabled": "False"
+    },
+    {"server": "MP4UPLOAD",
+      "priority": 3,
+      "enabled": "False"
+    },
+    {"server": "FOR AD",
+      "priority": 6,
+      "enabled": "False"
+    }
+  ]
+}
