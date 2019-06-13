@@ -188,6 +188,13 @@
             "episodes": "3", 
             "id": 216, 
             "name": "SHINGEKI NO KYOJIN SEASON 3 PART 2 (DUB)"
+        }, 
+        {
+            "category": "DUBBED", 
+            "url": "https://www5.gogoanime.tv/category/cardfight-vanguard-2018-dub", 
+            "episodes": "*", 
+            "id": 217, 
+            "name": "Cardfight Vanguard (2018) (Dub)"
         }
     ]
 }
