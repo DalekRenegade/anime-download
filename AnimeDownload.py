@@ -1,4 +1,5 @@
 import sys
+import urllib3
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -10,6 +11,8 @@ from AnimeInfo import AnimeInfo
 from Enums import InputCategoryEnum, AiringStatusEnum
 from Servers import *
 
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def fetchListedServers():
     try:
