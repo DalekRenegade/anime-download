@@ -1,4 +1,6 @@
 import ast
+import sys
+
 import Constants
 import json
 import math
@@ -60,7 +62,7 @@ def downloadFileFromUrl(url, destination_file_path, destination_file_desc):
                 download_status = StatusTypeEnum.DOWNLOAD_STARTED
                 for data in tqdm(r.iter_content(Constants.BUFFER_SIZE),
                                  total=math.ceil(total_size // Constants.BUFFER_SIZE),
-                                 unit=' KB', unit_scale=True, desc=destination_file_desc):
+                                 unit=' KB', unit_scale=True, desc=destination_file_desc, file=sys.stdout):
                     wrote = wrote + len(data)
                     f.write(data)
             if (total_size != 0 and wrote != total_size) or wrote < Constants.MIN_VIDEO_SIZE:
