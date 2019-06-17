@@ -70,6 +70,7 @@ if __name__ == '__main__':
         options = Options()
         options.add_argument("--disable-notifications")
         options.add_argument("--log-level=3")
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
         driver = webdriver.Chrome(Constants.CHROME_WEB_DRIVER_PATH, chrome_options=options)
         driver.set_window_position(-2000, 0)
         by_id = anime_input_params.InputCategory == InputCategoryEnum.ID
