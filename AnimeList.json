@@ -3,21 +3,21 @@
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/black-clover-tv-dub", 
-            "episodes": "85", 
+            "episodes": "88", 
             "id": 101, 
             "name": "Black Clover"
         }, 
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/boruto-naruto-next-generations-dub", 
-            "episodes": "35", 
+            "episodes": "38", 
             "id": 102, 
             "name": "Boruto"
         }, 
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/fairy-tail-final-series-dub", 
-            "episodes": "33", 
+            "episodes": "36", 
             "id": 103, 
             "name": "Fairy Tail"
         }, 
@@ -38,84 +38,84 @@
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/sword-art-online-alicization-dub", 
-            "episodes": "20", 
+            "episodes": "23", 
             "id": 106, 
             "name": "Sword Art Online - Alicization"
         }, 
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/beyblade-burst-chouzetsu-dub", 
-            "episodes": "22", 
+            "episodes": "24", 
             "id": 107, 
             "name": "Beyblade Burst Chouzetsu"
         }, 
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/hunter-x-hunter-2011-dub", 
-            "episodes": "147", 
+            "episodes": "148", 
             "id": 108, 
             "name": "Hunter x Hunter"
         }, 
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/pokemon-sun-and-moon-dub", 
-            "episodes": "108", 
+            "episodes": "112", 
             "id": 109, 
             "name": "Pokemon Sun & Moon"
         }, 
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/dragon-ball-super-dub", 
-            "episodes": "115", 
+            "episodes": "118", 
             "id": 110, 
             "name": "Dragon Ball Super"
         }, 
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/mob-psycho-100-ii-dub", 
-            "episodes": "8", 
+            "episodes": "11", 
             "id": 111, 
             "name": "Mob Psycho 100 - 2"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/beyblade-burst-gachi", 
-            "episodes": "10", 
+            "episodes": "13", 
             "id": 201, 
             "name": "Beyblade Burst Gachi"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/black-clover-tv", 
-            "episodes": "88", 
+            "episodes": "91", 
             "id": 202, 
             "name": "Black Clover"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/boruto-naruto-next-generations", 
-            "episodes": "111", 
+            "episodes": "114", 
             "id": 203, 
             "name": "Boruto"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/fairy-tail-final-series", 
-            "episodes": "36", 
+            "episodes": "39", 
             "id": 204, 
             "name": "Fairy Tail - Final"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/one-piece", 
-            "episodes": "889", 
+            "episodes": "892", 
             "id": 205, 
             "name": "One Piece"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/one-punch-man-2nd-season", 
-            "episodes": "10", 
+            "episodes": "12", 
             "id": 206, 
             "name": "One Punch Man - 2"
         }, 
@@ -129,63 +129,63 @@
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/dragon-ball-heroes", 
-            "episodes": "11", 
+            "episodes": "12", 
             "id": 208, 
             "name": "DRAGON BALL HEROES"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/shingeki-no-kyojin-season-3-part-2", 
-            "episodes": "8", 
+            "episodes": "10", 
             "id": 209, 
             "name": "SHINGEKI NO KYOJIN SEASON 3 PART 2"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/kimetsu-no-yaiba", 
-            "episodes": "11", 
+            "episodes": "14", 
             "id": 210, 
             "name": "KIMETSU NO YAIBA"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/dororo", 
-            "episodes": "23", 
+            "episodes": "24", 
             "id": 211, 
             "name": "DORORO"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/pokemon-sun-moon", 
-            "episodes": "126", 
+            "episodes": "129", 
             "id": 212, 
             "name": "POKEMON SUN & MOON"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/kidou-senshi-gundam-the-origin-zenya-akai-suisei", 
-            "episodes": "8", 
+            "episodes": "10", 
             "id": 213, 
             "name": "KIDOU SENSHI GUNDAM: THE ORIGIN - ZENYA AKAI SUISEI"
         }, 
         {
             "category": "subbed", 
             "url": "https://www5.gogoanime.tv/category/cardfight-vanguard-zoku-koukousei-hen", 
-            "episodes": "6", 
+            "episodes": "9", 
             "id": 214, 
             "name": "CARDFIGHT!! VANGUARD: ZOKU KOUKOUSEI-HEN"
         }, 
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/yakusoku-no-neverland-dub", 
-            "episodes": "10", 
+            "episodes": "12", 
             "id": 215, 
             "name": "YAKUSOKU NO NEVERLAND (DUB)"
         }, 
         {
             "category": "dubbed", 
             "url": "https://www5.gogoanime.tv/category/shingeki-no-kyojin-season-3-part-2-dub", 
-            "episodes": "4", 
+            "episodes": "7", 
             "id": 216, 
             "name": "SHINGEKI NO KYOJIN SEASON 3 PART 2 (DUB)"
         }, 
