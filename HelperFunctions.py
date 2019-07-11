@@ -127,7 +127,22 @@ def transformFileName(name):
     valid_chars = "-_.() %s%s" % (string.ascii_letters, string.digits)
     transformed_file_name = ''.join(c for c in name if c in valid_chars)
     transformed_file_name = re.sub(' +', ' ', transformed_file_name)
-    return transformed_file_name.strip().title()
+    transformed_words_list = []
+    for word in transformed_file_name.strip().split():
+        s_word = word.strip().upper()
+        if isRomanRepresentation(s_word):
+            transformed_words_list.append(s_word.upper())
+        else:
+            transformed_words_list.append(s_word.title())
+    return ' '.join(transformed_words_list)
+
+
+def isRomanRepresentation(s):
+    thousand = 'M{0,3}'
+    hundred = '(C[MD]|D?C{0,3})'
+    ten = '(X[CL]|L?X{0,3})'
+    digit = '(I[VX]|V?I{0,3})'
+    return bool(re.match(thousand + hundred + ten + digit + '$', s))
 
 
 def extractNumbersFromString(string_with_numbers, num_data_type=int, aggregate_function=max):
